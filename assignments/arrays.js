@@ -122,4 +122,4 @@ BMWAndAudi.push(inventory[i])
 // BMWAndAudi.push(inventory[i])
 //     }
 }
-console.log(BMWAndAudi);
+console.log(JSON.stringify(BMWAndAudi));
